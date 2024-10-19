@@ -18,7 +18,7 @@ import 'package:readarc_admin_apk/aboutus_page.dart';
 import 'package:readarc_admin_apk/admin_edit_profile_page.dart';
 import 'package:readarc_admin_apk/admin_profile_page.dart';
 import 'package:readarc_admin_apk/book_edit_page.dart';
-import 'package:readarc_admin_apk/feedback_recive.dart'; //
+import 'package:readarc_admin_apk/feedback_recive.dart';
 import 'package:readarc_admin_apk/theme_provider.dart'; // Import ThemeProvider
 import 'package:readarc_admin_apk/toggle_login.dart';
 import 'package:readarc_admin_apk/toggle_register.dart';
