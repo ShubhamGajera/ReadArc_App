@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "906037402424",
+    "project_id": "readarc-2",
+    "storage_bucket": "readarc-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906037402424:android:c77baf8faf7d862f083fcd",
+        "android_client_info": {
+          "package_name": "readarc.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj5hO8TfltQB-PA7oKOnvekd85vkT7zvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906037402424:android:d4068751e03e68ed083fcd",
+        "android_client_info": {
+          "package_name": "readarc_admin.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj5hO8TfltQB-PA7oKOnvekd85vkT7zvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
