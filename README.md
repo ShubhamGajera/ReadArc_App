@@ -1,3 +1,16 @@
+Admin 
+id   :- sgajera934@rku.ac.in
+pass :- 12345678
+
+
+User
+id :-  ajarasaniya510@rku.ac.in 
+pass :- 87654321
+
+
+
+
+
 # readarc_admin_apk
 
 A new Flutter project.
@@ -14,3 +27,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
