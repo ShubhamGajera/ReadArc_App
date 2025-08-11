@@ -1,4 +1,4 @@
-# 📚 ReadArc – Your Personalized Book Reading Companion
+# 📚 ReadArc  –  Your Personalized Book Reading Companion
 
 ![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue?logo=flutter)
 ![Firebase](https://img.shields.io/badge/Backend-Firebase-orange?logo=firebase)
