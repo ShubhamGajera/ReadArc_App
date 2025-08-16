@@ -8,7 +8,7 @@ ReadArc is a powerful, user-friendly **Flutter** app designed for reading, manag
 
 ---
 
-## ✨ Features
+##  ✨ Features
 
 - 🔐 Firebase Authentication (User/Admin Login & Register)
 - 📖 View, search, and bookmark books
